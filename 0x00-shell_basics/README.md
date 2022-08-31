@@ -1,1 +1,1 @@
-0-current_working_directory script shows the absolute path name of the current
+1-listit displays the contents
