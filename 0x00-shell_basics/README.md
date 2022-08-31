@@ -1,1 +1,1 @@
-5-listmorefiles display current directory contents
+6-firstdirectory shows script that create directory
