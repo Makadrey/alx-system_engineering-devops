@@ -1,1 +1,1 @@
-5-execute describes to execute file 
+6-multiple_permissions describes to execute group and read 
