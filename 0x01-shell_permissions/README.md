@@ -1,1 +1,2 @@
-6-multiple_permissions describes to execute group and read 
+7-everybody describes to execute group and user
+
