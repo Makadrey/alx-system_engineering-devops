@@ -1,1 +1,1 @@
-6-firstdirectory shows script that create directory
+7-movethatfile shows to move
