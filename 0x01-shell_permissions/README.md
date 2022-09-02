@@ -1,2 +1,2 @@
-11-directories_permissions describes to execute group and user
+12-directory_permissions describes to create directory
 
