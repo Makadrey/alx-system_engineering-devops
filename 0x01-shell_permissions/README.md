@@ -1,2 +1,2 @@
-12-directory_permissions describes to create directory
+7-everybody describes excute group and users to the file
 
