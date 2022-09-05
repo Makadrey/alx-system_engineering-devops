@@ -1,1 +1,1 @@
-Create a file and write a text in it
+write into a file

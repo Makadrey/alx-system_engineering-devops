@@ -1,0 +1,14 @@
+total 80
+drwxr-xr-x  13 user  staff  416  6 Sep 00:40 .
+drwxr-xr-x   7 user  staff  224  5 Sep 19:10 ..
+-rwxr-xr-x   1 user  staff   30  5 Sep 19:10 0-hello_world
+-rwxr-xr-x   1 user  staff   28  5 Sep 19:10 1-confused_smiley
+-rwxr-xr-x   1 user  staff   28  5 Sep 19:10 2-hellofile
+-rwxr-xr-x   1 user  staff   29  5 Sep 19:15 4-lastlines
+-rwxr--r--   1 user  staff   29  5 Sep 19:22 5-firstlines
+-rwxr--r--   1 user  staff   50  5 Sep 19:38 6-third_line
+-rwxr--r--   1 user  staff   76  6 Sep 00:14 7-file
+-rwxr--r--   1 user  staff   36  6 Sep 00:33 8-cwd_state
+-rw-r--r--   1 user  staff   37  6 Sep 00:17 README.md
+-rw-r--r--   1 user  staff   12  6 Sep 00:15 \*\'"best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 user  staff    0  6 Sep 00:40 ls_cwd_content
