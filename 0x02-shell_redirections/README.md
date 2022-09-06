@@ -1,1 +1,1 @@
-display 10 newest file 
+list of words as input and print only words that appear  
