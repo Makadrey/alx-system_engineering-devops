@@ -1,1 +1,1 @@
-display lines containing root and 3 lines   
+display all lines in a file that do not contain pattern "bin"
