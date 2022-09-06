@@ -1,1 +1,1 @@
-reserve its input 
+display all users and their home directories 
