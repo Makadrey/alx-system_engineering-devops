@@ -1,1 +1,1 @@
-display all lines in a file that do not contain pattern "bin"
+display all lines of the file 
