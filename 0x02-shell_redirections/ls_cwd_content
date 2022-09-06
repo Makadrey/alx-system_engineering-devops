@@ -1,5 +1,5 @@
-total 80
-drwxr-xr-x  13 user  staff  416  6 Sep 00:40 .
+total 88
+drwxr-xr-x  14 user  staff  448  6 Sep 01:20 .
 drwxr-xr-x   7 user  staff  224  5 Sep 19:10 ..
 -rwxr-xr-x   1 user  staff   30  5 Sep 19:10 0-hello_world
 -rwxr-xr-x   1 user  staff   28  5 Sep 19:10 1-confused_smiley
@@ -9,6 +9,7 @@ drwxr-xr-x   7 user  staff  224  5 Sep 19:10 ..
 -rwxr--r--   1 user  staff   50  5 Sep 19:38 6-third_line
 -rwxr--r--   1 user  staff   76  6 Sep 00:14 7-file
 -rwxr--r--   1 user  staff   36  6 Sep 00:33 8-cwd_state
--rw-r--r--   1 user  staff   37  6 Sep 00:17 README.md
+-rwxr--r--   1 user  staff   36  6 Sep 01:20 9-duplicate_last_line
+-rw-r--r--   1 user  staff   18  6 Sep 00:49 README.md
 -rw-r--r--   1 user  staff   12  6 Sep 00:15 \*\'"best School"\'\*$\?\*\*\*\*\*:)
--rw-r--r--   1 user  staff    0  6 Sep 00:40 ls_cwd_content
+-rw-r--r--   1 user  staff    0  6 Sep 01:22 ls_cwd_content
