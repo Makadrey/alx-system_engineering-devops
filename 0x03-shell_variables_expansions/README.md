@@ -1,1 +1,1 @@
-the result of the addition of 128 with the value stored in the environment variable 
+ the result of POWER divided by DIVIDE
