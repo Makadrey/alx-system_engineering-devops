@@ -1,1 +1,1 @@
-list of words as input and print only words that appear  
+display lines containing root from the file  
