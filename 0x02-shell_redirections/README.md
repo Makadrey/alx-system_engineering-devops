@@ -1,1 +1,1 @@
-display lines containing bin from the file  
+display lines containing root and 3 lines   
