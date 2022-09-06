@@ -1,1 +1,1 @@
-count number of directories 
+lists environmental variables
