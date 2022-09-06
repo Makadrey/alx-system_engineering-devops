@@ -1,1 +1,1 @@
-remove all letters from input 
+reserve its input 
