@@ -1,1 +1,1 @@
-replace characters 
+remove all letters from input 
