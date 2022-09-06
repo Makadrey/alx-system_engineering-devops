@@ -1,1 +1,1 @@
-print hello world 
+display the content of files
