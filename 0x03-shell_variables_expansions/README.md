@@ -1,1 +1,1 @@
-add to file  
+count number of directories 
