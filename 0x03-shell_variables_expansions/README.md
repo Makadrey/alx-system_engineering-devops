@@ -1,1 +1,1 @@
-adds the two numbers stored in the environment variables WATER and STIR
+create a new global variable 
