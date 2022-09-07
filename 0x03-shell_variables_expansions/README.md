@@ -1,1 +1,1 @@
-encodes and decodes text using the rot13 encryption.
+every other line from the input, starting with the first line.
