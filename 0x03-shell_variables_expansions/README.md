@@ -1,1 +1,1 @@
-every other line from the input, starting with the first line.
+adds the two numbers stored in the environment variables WATER and STIR
